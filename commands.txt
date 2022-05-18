@@ -2,4 +2,11 @@ git init->initialize git to present folder.
 git status-> list all untracked files.
 git add -A-> add all untracked files in to staging area.
 git commit -m "msg"->  staging area to local repository.
+git remote add text->  add remote.
+git remote -v->   to check remote adding cross check.
+git status  ->   tc check status.
+git push -u text master--->push to git hub.
+
+
+
 
